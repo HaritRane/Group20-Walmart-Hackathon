@@ -11,7 +11,7 @@ The flow of our machine learning model is as follows
 2]The URL is fragmented into various parameters and depending upon those parameters fraud detection is done by the ML model
 3]And the results are displayed to the user in the UI.
 
-DEMO
+
 
 We have classified the links using the Gradient Boosting Algorithm, this is the 
 Gradient Boosting is a powerful boosting algorithm, in which each new model is trained to minimize the loss function such as mean squared error or cross-entropy.
