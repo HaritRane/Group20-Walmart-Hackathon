@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Malicious Link Detector",
+    "version": "1.0",
+    "description": "A Chrome extension to detect and disable malicious links",
+    "permissions": ["activeTab"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
+  
